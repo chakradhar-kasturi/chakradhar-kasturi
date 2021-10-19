@@ -2,7 +2,7 @@
 
 
 <p>
-A Java Developer 🚀 from India. Working on some project or learning something new!
+A Java Developer 🚀 from India.Always in hunt of learning something new!
 <br />
 
 
@@ -29,7 +29,8 @@ A Java Developer 🚀 from India. Working on some project or learning something 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-Connect with me
+Connect with me:
 ---
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/chakradhar-kasturi/)](https://www.linkedin.com/in/chakradhar-kasturi/)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white&link=)](slack://rewe-digital.slack.com/chakradhar.kasturi@rewe-digtial.com)
+[![StackOverflow](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/3603445/chakradhar-kasturi)
